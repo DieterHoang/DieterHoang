@@ -68,16 +68,16 @@
   <!-- <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
   </a> -->
-  <a href="https://www.facebook.com/DieterHoang.0509/" target="blank">
+  <a href="https://www.facebook.com/DieterHoang.0509/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <!-- <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a> -->
-  <a href="https://www.linkedin.com/in/ho%C3%A0ng-hi%E1%BB%87p-3543a7213/" target="blank">
+  <a href="https://www.linkedin.com/in/ho%C3%A0ng-hi%E1%BB%87p-3543a7213/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-  <a href="https://www.instagram.com/dieter_hoang/" target="blank">
+  <a href="https://www.instagram.com/dieter_hoang/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
   <a href="mailto:motchiecbutchicute@gmail.com" target="top">
